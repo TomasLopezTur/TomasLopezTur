@@ -6,7 +6,7 @@
 
 <b>Tecnologias qe uso:</b><br>
   - Javascript, Node.js, Express, HTML, CSS, Bootstrap, MySQL, Sequelize, EJS, ReactJs.<br>
- <b>Las tecnologias que no uso muy a menudo:</b><br>
+<b>Las tecnologias que no uso muy a menudo:</b><br>
   - Python basic y POO, C++(para el manejo de microcontroladores)
  
 
