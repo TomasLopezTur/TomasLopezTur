@@ -5,8 +5,7 @@
   - Hace unos años empecé a capacitarme en el mundo IT.Estoy muy interesado en la tecnología y en su implementación. Mi interés es la Inteligencia Artificial y la       automatización, y también me gusta e interesa el desarrollo web. Soy una persona adaptativa, con buena capacidad de aprendery buena predisposición a trabajar en     equipo, también soy una persona empática, meticulosa y de comunicación efectiva.
 
 <b>Tecnologias qe uso:</b><br>
-  - Javascript, Node.js, Express, HTML, CSS, Bootstrap, MySQL, Sequelize, EJS, ReactJs.
-<br><b>Las tecnologias que no uso muy a menudo:</b><br>
+  - Javascript, Node.js, Express, HTML, CSS, Bootstrap, MySQL, Sequelize, EJS, ReactJs.<br><b>Las tecnologias que no uso muy a menudo:</b><br>
   - Python basic y POO, C++(para el manejo de microcontroladores)
  
 
