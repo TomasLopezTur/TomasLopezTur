@@ -11,10 +11,11 @@
  
 <b>Las tecnologias que no uso muy a menudo:</b><br>
   - Python basic y POO, C++(para el manejo de microcontroladores)<br>
-  
-***<br>
+
+***
+
 ## Trabajo práctico integrador(aplicación web E-commerce) de Digital House & Fundación Formar <br>
-- [Link](https://github.com/LuqueJuanManuel/Grupo_10_ProGamer/)
+- [Link del sitio en servidor](https://github.com/LuqueJuanManuel/Grupo_10_ProGamer/)
 
 
 <!--
