@@ -10,7 +10,7 @@
 <b>Las tecnologias que no uso muy a menudo:</b><br>
   - Python basic y POO, C++(para el manejo de microcontroladores)
  #
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?TomasLopezTur&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomasLopezTur&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
