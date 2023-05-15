@@ -3,14 +3,16 @@
 
 <b>Mi perfil:</b><br>
   - Hace unos años empecé a capacitarme en el mundo IT.Estoy muy interesado en la tecnología y en su implementación. Mi interés es la Inteligencia Artificial y la       automatización, y también me gusta e interesa el desarrollo web. Soy una persona adaptativa, con buena capacidad de aprendery buena predisposición a trabajar en     equipo, también soy una persona empática, meticulosa y de comunicación efectiva.
+  - <b>Educacion IT:<b/> Curso de habilidades blandas con accenture y codo a codo, Curso Python básico y POO en FabLab (espacio de educación,asesoramiento y producción digital), Curso Elementos de IA(https://www.elementsofai.com/es), Programación Web FullStack - Digital House & Fundación Formar09/2022 - 06/2023. En donde trabajamos con metodologíaKanban (Trello)
+  
 #
 <b>Tecnologias qe uso:</b><br>
-  - Javascript, Node.js, Express, HTML, CSS, Bootstrap, MySQL, Sequelize, EJS, ReactJs.<br>
+  - Javascript, Node.js, framework Express(MVC), HTML, CSS, Bootstrap, MySQL, Sequelize, EJS, ReactJs,librerías Npm<br>
  
 <b>Las tecnologias que no uso muy a menudo:</b><br>
   - Python basic y POO, C++(para el manejo de microcontroladores)
  #
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomasLopezTur&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
