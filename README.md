@@ -16,7 +16,7 @@
 
 ## Trabajo práctico integrador(aplicación web E-commerce) de Digital House & Fundación Formar <br>
 - [Link del repositorio](https://github.com/LuqueJuanManuel/Grupo_10_ProGamer/)
-- [Link del sitio en servidor](https://github.com/LuqueJuanManuel/Grupo_10_ProGamer/) NO dispobible!!!
+- [Link del sitio en servidor](https://github.com/LuqueJuanManuel/Grupo_10_ProGamer/) NO disponible!!!
 <br>
 Este es un proyecto integrador que desarrollamos y presentamos en el curso junto a mis compañeros, Emanuel Gauna y Juan Luque. Este es un E-commerce pensado para ofrecer articulos y elementos de Tecnologia, como por ejemplo Computadoras, Netbook, teclados, mouse, etc(pensado y diseñado desde 0 por nosotros).
 
