@@ -14,7 +14,7 @@
  <br>
   ***
   <br>
-  ## Trabajo práctico integrador(aplicación web E-commerce) de Digital House & Fundación Formar 
+  ## Trabajo práctico integrador(aplicación web E-commerce) de Digital House & Fundación Formar <br>
     - [Link](https://github.com/LuqueJuanManuel/Grupo_10_ProGamer/)
 
 
