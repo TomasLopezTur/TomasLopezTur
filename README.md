@@ -7,7 +7,7 @@
   
 #
 <b>Tecnologias qe uso:</b><br>
-  - Javascript, Node.js, framework Express(MVC), HTML, CSS, Bootstrap, MySQL, Sequelize, EJS, ReactJs,librerías Npm<br>
+  - Javascript, Node.js, framework Express(MVC), HTML, CSS, Bootstrap, MySQL, Sequelize, EJS, ReactJs(fundamentos),librerías Npm<br>
  
 <b>Las tecnologias que no uso muy a menudo:</b><br>
   - Python basic y POO, C++(para el manejo de microcontroladores)<br>
